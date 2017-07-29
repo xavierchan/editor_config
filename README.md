@@ -1,2 +1,2 @@
-# vim_config
-my useful vim config
+# editor_config
+my useful editor config
